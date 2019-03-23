@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<KeymanDeveloperProject>
+  <Options>
+    <BuildPath>$PROJECTPATH\build</BuildPath>
+    <CompilerWarningsAsErrors>True</CompilerWarningsAsErrors>
+    <WarnDeprecatedCode>True</WarnDeprecatedCode>
+  </Options>
+  <Files>
+    <File>
+      <ID>id_bc1ad426bf6d8bd371dcc5b6eea302ef</ID>
+      <Filename>fv_lekwunginung.kmn</Filename>
+      <Filepath>source\fv_lekwunginung.kmn</Filepath>
+      <FileVersion>1.0</FileVersion>
+      <FileType>.kmn</FileType>
+      <Details/>
+    </File>
+  </Files>
+</KeymanDeveloperProject>

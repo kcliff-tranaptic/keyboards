@@ -1,0 +1,9 @@
+﻿store(&NAME) 'Lek̓ʷəŋiʔnəŋ'
+store(&TARGETS) 'any'
+store(&COPYRIGHT) '(c) 2008-2019 FirstVoices, SIL International, Songhees Nation.'
+store(&KEYBOARDVERSION) '1.0'
+store(&VISUALKEYBOARD) 'fv_lekwunginung.kvks'
+store(&LAYOUTFILE) 'fv_lekwunginung.keyman-touch-layout'
+begin Unicode > use(main)
+
+group(main) using keys
