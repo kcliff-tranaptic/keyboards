@@ -4,6 +4,7 @@
     <BuildPath>$PROJECTPATH\build</BuildPath>
     <CompilerWarningsAsErrors>True</CompilerWarningsAsErrors>
     <WarnDeprecatedCode>True</WarnDeprecatedCode>
+    <CheckFilenameConventions>False</CheckFilenameConventions>
   </Options>
   <Files>
     <File>
@@ -12,7 +13,10 @@
       <Filepath>source\fv_lekwunginung.kmn</Filepath>
       <FileVersion>1.0</FileVersion>
       <FileType>.kmn</FileType>
-      <Details/>
+      <Details>
+        <Name>Lək̓ʷəŋiʔnəŋ</Name>
+        <Copyright>(c) 2019 FirstVoices, SIL International, Songhees Nation.</Copyright>
+      </Details>
     </File>
   </Files>
 </KeymanDeveloperProject>

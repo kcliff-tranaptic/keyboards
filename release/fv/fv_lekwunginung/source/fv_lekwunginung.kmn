@@ -1,9 +1,24 @@
-﻿store(&NAME) 'Lek̓ʷəŋiʔnəŋ'
+﻿store(&VERSION) '9.0'
+store(&NAME) 'Lək̓ʷəŋiʔnəŋ'
 store(&TARGETS) 'any'
-store(&COPYRIGHT) '(c) 2008-2019 FirstVoices, SIL International, Songhees Nation.'
+store(&COPYRIGHT) '(c) 2019 FirstVoices, SIL International, Songhees Nation.'
 store(&KEYBOARDVERSION) '1.0'
 store(&VISUALKEYBOARD) 'fv_lekwunginung.kvks'
 store(&LAYOUTFILE) 'fv_lekwunginung.keyman-touch-layout'
 begin Unicode > use(main)
 
 group(main) using keys
++ ";" > dk(semicolon)
+dk(semicolon) + "n" > U+014b
+dk(semicolon) + "l" > U+026b
+dk(semicolon) + "w" > U+02b7
+dk(semicolon) + "e" > U+0259
+dk(semicolon) + "6" > U+030c
+dk(semicolon) + "y" > U+019b
+dk(semicolon) + "/" > U+0294
+dk(semicolon) + "r" > U+03b8
+dk(semicolon) + "'" > U+0301
+dk(semicolon) + "t" > U+1dbf
+dk(semicolon) + "." > U+0323
+dk(semicolon) + "," > U+0313
+dk(semicolon) + ";" > ";"
