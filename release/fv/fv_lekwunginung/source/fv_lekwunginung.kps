@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Package>
+  <System>
+    <KeymanDeveloperVersion>11.0.1356.0</KeymanDeveloperVersion>
+    <FileVersion>7.0</FileVersion>
+  </System>
+  <Options>
+    <ExecuteProgram></ExecuteProgram>
+    <MSIFileName></MSIFileName>
+    <MSIOptions></MSIOptions>
+  </Options>
+  <StartMenu>
+    <Folder></Folder>
+    <Items/>
+  </StartMenu>
+  <Info>
+    <Version URL="">1.0</Version>
+    <Name URL="">Lək̓ʷəŋiʔnəŋ</Name>
+    <Copyright URL="">(c) 2019 FirstVoices, SIL International, Songhees Nation.</Copyright>
+  </Info>
+  <Files>
+    <File>
+      <Name>..\build\fv_lekwunginung.kvk</Name>
+      <Description>File fv_lekwunginung.kvk</Description>
+      <CopyLocation>0</CopyLocation>
+      <FileType>.kvk</FileType>
+    </File>
+    <File>
+      <Name>..\build\fv_lekwunginung.kmx</Name>
+      <Description>Keyboard Lək̓ʷəŋiʔnəŋ</Description>
+      <CopyLocation>0</CopyLocation>
+      <FileType>.kmx</FileType>
+    </File>
+    <File>
+      <Name>..\build\fv_lekwunginung.js</Name>
+      <Description>File fv_lekwunginung.js</Description>
+      <CopyLocation>0</CopyLocation>
+      <FileType>.js</FileType>
+    </File>
+  </Files>
+  <Keyboards>
+    <Keyboard>
+      <Name>Lək̓ʷəŋiʔnəŋ</Name>
+      <ID>fv_lekwunginung</ID>
+      <Version>1.0</Version>
+      <Languages/>
+    </Keyboard>
+  </Keyboards>
+  <Strings/>
+</Package>
