@@ -1,6 +1,5 @@
 {
   "tablet": {
-    "font": "Tahoma",
     "layer": [
       {
         "id": "default",
@@ -9,69 +8,69 @@
             "id": 1,
             "key": [
               {
-                "id": "K_Q",
+                "id": "T_Q",
                 "text": "q"
               },
               {
-                "id": "K_W",
+                "id": "T_W",
                 "text": "w",
                 "sk": [
-                   {
+                  {
                     "text": "ʷ",
-                    "id": "T_w_0"
-                   }
+                    "id": "T_W_0"
+                  }
                 ]
               },
               {
-                "id": "K_E",
+                "id": "T_E",
                 "text": "e",
                 "sk": [
-                   {
+                  {
                     "text": "ə",
-                    "id": "T_e_0"
-                   },
-                   {
+                    "id": "T_E_0"
+                  },
+                  {
                     "text": "θ",
-                    "id": "T_e_1"
-                   },
-                   {
-                    "text": "U_1DBF",
-                    "id": "T_e_2"
-                   }
+                    "id": "T_E_1"
+                  },
+                  {
+                    "text": "ᶿ",
+                    "id": "T_E_2"
+                  }
                 ]
               },
               {
-                "id": "K_R",
+                "id": "T_R",
                 "text": "r"
               },
               {
-                "id": "K_T",
+                "id": "T_T",
                 "text": "t"
               },
               {
-                "id": "K_Y",
+                "id": "T_Y",
                 "text": "y",
                 "sk": [
-                   {
+                  {
                     "text": "ƛ",
-                    "id": "T_y_0"
-                   }
+                    "id": "T_Y_0"
+                  }
                 ]
               },
               {
-                "id": "K_U",
+                "id": "T_U",
                 "text": "u"
               },
               {
-                "id": "K_I",
+                "id": "T_I",
                 "text": "i"
               },
               {
-                "id": "K_O",
+                "id": "T_O",
                 "text": "o"
               },
               {
-                "id": "K_P",
+                "id": "T_P",
                 "text": "p"
               }
             ]
@@ -80,53 +79,53 @@
             "id": 2,
             "key": [
               {
-                "id": "K_A",
+                "id": "T_A",
                 "text": "a",
                 "pad": 70
               },
               {
-                "id": "K_S",
-                "text": "s"
-              },
-              {
-                "id": "K_D",
-                "text": "d"
-              },
-              {
-                "id": "K_F",
-                "text": "f"
-              },
-              {
-                "id": "K_G",
-                "text": "g"
-              },
-              {
-                "id": "K_H",
-                "text": "h"
-              },
-              {
-                "id": "K_J",
-                "text": "j"
-              },
-              {
-                "id": "K_K",
-                "text": "k"
-              },
-              {
-                "id": "K_L",
-                "text": "l",
+                "id": "T_S",
+                "text": "s",
                 "sk": [
-                   {
-                    "text": "ɫ",
-                    "id": "T_l_0"
-                   }
+                  {
+                    "text": "š",
+                    "id": "T_S_0"
+                  }
                 ]
               },
               {
-                "id": "T_new_20",
-                "text": "",
-                "width": "10",
-                "sp": "10"
+                "id": "T_D",
+                "text": "d"
+              },
+              {
+                "id": "T_F",
+                "text": "f"
+              },
+              {
+                "id": "T_G",
+                "text": "g"
+              },
+              {
+                "id": "T_H",
+                "text": "h"
+              },
+              {
+                "id": "T_J",
+                "text": "j"
+              },
+              {
+                "id": "T_K",
+                "text": "k"
+              },
+              {
+                "id": "T_L",
+                "text": "l",
+                "sk": [
+                  {
+                    "text": "ɫ",
+                    "id": "T_L_0"
+                  }
+                ]
               }
             ]
           },
@@ -141,37 +140,49 @@
                 "nextlayer": "shift"
               },
               {
-                "id": "K_Z",
+                "id": "T_Z",
                 "text": "z"
               },
               {
-                "id": "K_X",
-                "text": "x"
-              },
-              {
-                "id": "K_C",
-                "text": "c"
-              },
-              {
-                "id": "K_V",
-                "text": "v"
-              },
-              {
-                "id": "K_B",
-                "text": "b"
-              },
-              {
-                "id": "K_N",
-                "text": "n",
+                "id": "T_X",
+                "text": "x",
                 "sk": [
-                   {
-                    "text": "ŋ",
-                    "id": "T_n_0"
-                   }
+                  {
+                    "text": "x̌",
+                    "id": "T_X_0"
+                  }
                 ]
               },
               {
-                "id": "K_M",
+                "id": "T_C",
+                "text": "c",
+                "sk": [
+                  {
+                    "text": "c",
+                    "id": "T_C_0"
+                  }
+                ]
+              },
+              {
+                "id": "T_V",
+                "text": "v"
+              },
+              {
+                "id": "T_B",
+                "text": "b"
+              },
+              {
+                "id": "T_N",
+                "text": "n",
+                "sk": [
+                  {
+                    "text": "ŋ",
+                    "id": "T_N_0"
+                  }
+                ]
+              },
+              {
+                "id": "T_M",
                 "text": "m"
               },
               {
@@ -213,6 +224,18 @@
                   {
                     "text": ";",
                     "id": "K_COLON"
+                  },
+                  {
+                    "text": "ʔ",
+                    "id": "T_GLOTTAL_STOP"
+                  },
+                  {
+                    "text": "́",
+                    "id": "T_ACUTE"
+                  },
+                  {
+                    "text": "̓",
+                    "id": "T_GLOTTALIZE"
                   }
                 ]
               },
@@ -697,10 +720,10 @@
           }
         ]
       }
-    ]
+    ],
+    "displayUnderlying": false
   },
   "phone": {
-    "font": "Tahoma",
     "layer": [
       {
         "id": "default",
@@ -709,43 +732,69 @@
             "id": 1,
             "key": [
               {
-                "id": "K_Q",
+                "id": "T_Q",
                 "text": "q"
               },
               {
-                "id": "K_W",
-                "text": "w"
+                "id": "T_W",
+                "text": "w",
+                "sk": [
+                  {
+                    "text": "ʷ",
+                    "id": "T_W_0"
+                  }
+                ]
               },
               {
-                "id": "K_E",
-                "text": "e"
+                "id": "T_E",
+                "text": "e",
+                "sk": [
+                  {
+                    "text": "ɘ",
+                    "id": "T_E_0"
+                  },
+                  {
+                    "text": "θ",
+                    "id": "T_E_1"
+                  },
+                  {
+                    "text": "ᶿ",
+                    "id": "T_E_2"
+                  }
+                ]
               },
               {
-                "id": "K_R",
+                "id": "T_R",
                 "text": "r"
               },
               {
-                "id": "K_T",
+                "id": "T_T",
                 "text": "t"
               },
               {
-                "id": "K_Y",
-                "text": "y"
+                "id": "T_Y",
+                "text": "y",
+                "sk": [
+                  {
+                    "text": "ƛ",
+                    "id": "T_Y_0"
+                  }
+                ]
               },
               {
-                "id": "K_U",
+                "id": "T_U",
                 "text": "u"
               },
               {
-                "id": "K_I",
+                "id": "T_I",
                 "text": "i"
               },
               {
-                "id": "K_O",
+                "id": "T_O",
                 "text": "o"
               },
               {
-                "id": "K_P",
+                "id": "T_P",
                 "text": "p"
               }
             ]
@@ -754,41 +803,53 @@
             "id": 2,
             "key": [
               {
-                "id": "K_A",
+                "id": "T_A",
                 "text": "a",
                 "pad": "50"
               },
               {
-                "id": "K_S",
-                "text": "s"
+                "id": "T_S",
+                "text": "s",
+                "sk": [
+                  {
+                    "text": "š",
+                    "id": "T_S_0"
+                  }
+                ]
               },
               {
-                "id": "K_D",
+                "id": "T_D",
                 "text": "d"
               },
               {
-                "id": "K_F",
+                "id": "T_F",
                 "text": "f"
               },
               {
-                "id": "K_G",
+                "id": "T_G",
                 "text": "g"
               },
               {
-                "id": "K_H",
+                "id": "T_H",
                 "text": "h"
               },
               {
-                "id": "K_J",
+                "id": "T_J",
                 "text": "j"
               },
               {
-                "id": "K_K",
+                "id": "T_K",
                 "text": "k"
               },
               {
-                "id": "K_L",
-                "text": "l"
+                "id": "T_L",
+                "text": "l",
+                "sk": [
+                  {
+                    "text": "ɫ",
+                    "id": "T_L_0"
+                  }
+                ]
               },
               {
                 "id": "T_new_54",
@@ -808,31 +869,49 @@
                 "nextlayer": "shift"
               },
               {
-                "id": "K_Z",
+                "id": "T_Z",
                 "text": "z"
               },
               {
-                "id": "K_X",
-                "text": "x"
+                "id": "T_X",
+                "text": "x",
+                "sk": [
+                  {
+                    "text": "x̌",
+                    "id": "T_X_0"
+                  }
+                ]
               },
               {
-                "id": "K_C",
-                "text": "c"
+                "id": "T_C",
+                "text": "c",
+                "sk": [
+                  {
+                    "text": "c",
+                    "id": "T_C_0"
+                  }
+                ]
               },
               {
-                "id": "K_V",
+                "id": "T_V",
                 "text": "v"
               },
               {
-                "id": "K_B",
+                "id": "T_B",
                 "text": "b"
               },
               {
-                "id": "K_N",
-                "text": "n"
+                "id": "T_N",
+                "text": "n",
+                "sk": [
+                  {
+                    "text": "ŋ",
+                    "id": "T_N_0"
+                  }
+                ]
               },
               {
-                "id": "K_M",
+                "id": "T_M",
                 "text": "m"
               },
               {
@@ -874,6 +953,18 @@
                   {
                     "text": ";",
                     "id": "K_COLON"
+                  },
+                  {
+                    "text": "ʔ",
+                    "id": "T_GLOTTAL_STOP"
+                  },
+                  {
+                    "text": "́",
+                    "id": "T_ACUTE"
+                  },
+                  {
+                    "text": "̓",
+                    "id": "T_GLOTTALIZE"
                   }
                 ]
               },
@@ -1350,6 +1441,7 @@
           }
         ]
       }
-    ]
+    ],
+    "displayUnderlying": false
   }
 }
