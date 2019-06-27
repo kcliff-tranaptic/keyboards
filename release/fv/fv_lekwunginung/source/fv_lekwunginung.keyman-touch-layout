@@ -52,7 +52,7 @@
                 "text": "y",
                 "sk": [
                   {
-                    "text": "ƛ",
+                    "text": "ƛ̓",
                     "id": "T_Y_0"
                   }
                 ]
@@ -158,7 +158,7 @@
                 "text": "c",
                 "sk": [
                   {
-                    "text": "c",
+                    "text": "č",
                     "id": "T_C_0"
                   }
                 ]
@@ -230,11 +230,11 @@
                     "id": "T_GLOTTAL_STOP"
                   },
                   {
-                    "text": "́",
+                    "text": " ́",
                     "id": "T_ACUTE"
                   },
                   {
-                    "text": "̓",
+                    "text": " ̓",
                     "id": "T_GLOTTALIZE"
                   }
                 ]
@@ -776,7 +776,7 @@
                 "text": "y",
                 "sk": [
                   {
-                    "text": "ƛ",
+                    "text": "ƛ̓",
                     "id": "T_Y_0"
                   }
                 ]
@@ -887,7 +887,7 @@
                 "text": "c",
                 "sk": [
                   {
-                    "text": "c",
+                    "text": "č",
                     "id": "T_C_0"
                   }
                 ]
@@ -959,11 +959,11 @@
                     "id": "T_GLOTTAL_STOP"
                   },
                   {
-                    "text": "́",
+                    "text": " ́",
                     "id": "T_ACUTE"
                   },
                   {
-                    "text": "̓",
+                    "text": " ̓",
                     "id": "T_GLOTTALIZE"
                   }
                 ]
