@@ -6,8 +6,10 @@
   </System>
   <Options>
     <ExecuteProgram></ExecuteProgram>
+    <ReadMeFile>readme.htm</ReadMeFile>
     <MSIFileName></MSIFileName>
     <MSIOptions></MSIOptions>
+    <FollowKeyboardVersion/>
   </Options>
   <StartMenu>
     <Folder></Folder>
@@ -17,6 +19,7 @@
     <Version URL="">1.0</Version>
     <Name URL="">Lək̓ʷəŋiʔnəŋ</Name>
     <Copyright URL="">(c) 2019 FirstVoices, SIL International, Songhees Nation.</Copyright>
+    <Author URL="">Keith Clifford</Author>
   </Info>
   <Files>
     <File>
@@ -37,13 +40,27 @@
       <CopyLocation>0</CopyLocation>
       <FileType>.js</FileType>
     </File>
+    <File>
+      <Name>readme.htm</Name>
+      <Description>File readme.htm</Description>
+      <CopyLocation>0</CopyLocation>
+      <FileType>.htm</FileType>
+    </File>
+    <File>
+      <Name>help\fv_lekwunginung.php</Name>
+      <Description>File fv_lekwunginung.php</Description>
+      <CopyLocation>0</CopyLocation>
+      <FileType>.php</FileType>
+    </File>
   </Files>
   <Keyboards>
     <Keyboard>
       <Name>Lək̓ʷəŋiʔnəŋ</Name>
       <ID>fv_lekwunginung</ID>
       <Version>1.0</Version>
-      <Languages/>
+      <Languages>
+        <Language ID="str-Latn">Lək̓ʷəŋiʔnəŋ</Language>
+      </Languages>
     </Keyboard>
   </Keyboards>
   <Strings/>

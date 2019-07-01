@@ -18,5 +18,57 @@
         <Copyright>(c) 2019 FirstVoices, SIL International, Songhees Nation.</Copyright>
       </Details>
     </File>
+    <File>
+      <ID>id_6fca8b0d01d1ea2b4adb5fd431591d2e</ID>
+      <Filename>fv_lekwunginung.kps</Filename>
+      <Filepath>source\fv_lekwunginung.kps</Filepath>
+      <FileVersion>1.0</FileVersion>
+      <FileType>.kps</FileType>
+      <Details>
+        <Name>Lək̓ʷəŋiʔnəŋ</Name>
+        <Copyright>(c) 2019 FirstVoices, SIL International, Songhees Nation.</Copyright>
+        <Version>1.0</Version>
+      </Details>
+    </File>
+    <File>
+      <ID>id_2ed725e0dea05ea29abcfed826b1d64f</ID>
+      <Filename>fv_lekwunginung.kvk</Filename>
+      <Filepath>source\..\build\fv_lekwunginung.kvk</Filepath>
+      <FileVersion></FileVersion>
+      <FileType>.kvk</FileType>
+      <ParentFileID>id_6fca8b0d01d1ea2b4adb5fd431591d2e</ParentFileID>
+    </File>
+    <File>
+      <ID>id_64074c7c041d8d4cbb4b7676b6755f53</ID>
+      <Filename>fv_lekwunginung.kmx</Filename>
+      <Filepath>source\..\build\fv_lekwunginung.kmx</Filepath>
+      <FileVersion></FileVersion>
+      <FileType>.kmx</FileType>
+      <ParentFileID>id_6fca8b0d01d1ea2b4adb5fd431591d2e</ParentFileID>
+    </File>
+    <File>
+      <ID>id_5aed74b545f679f49d87637c996d59f2</ID>
+      <Filename>fv_lekwunginung.js</Filename>
+      <Filepath>source\..\build\fv_lekwunginung.js</Filepath>
+      <FileVersion></FileVersion>
+      <FileType>.js</FileType>
+      <ParentFileID>id_6fca8b0d01d1ea2b4adb5fd431591d2e</ParentFileID>
+    </File>
+    <File>
+      <ID>id_8da344c4cea6f467013357fe099006f5</ID>
+      <Filename>readme.htm</Filename>
+      <Filepath>source\readme.htm</Filepath>
+      <FileVersion></FileVersion>
+      <FileType>.htm</FileType>
+      <ParentFileID>id_6fca8b0d01d1ea2b4adb5fd431591d2e</ParentFileID>
+    </File>
+    <File>
+      <ID>id_d721442f063e1035d8c53cf9a21e32b4</ID>
+      <Filename>fv_lekwunginung.php</Filename>
+      <Filepath>source\help\fv_lekwunginung.php</Filepath>
+      <FileVersion></FileVersion>
+      <FileType>.php</FileType>
+      <ParentFileID>id_6fca8b0d01d1ea2b4adb5fd431591d2e</ParentFileID>
+    </File>
   </Files>
 </KeymanDeveloperProject>
