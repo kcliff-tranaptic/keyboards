@@ -40,10 +40,10 @@ group(main) using keys
 + [T_W_0] > 'ʷ'
 + [T_E] > 'e'
 + [T_E_0] > 'ə'
-+ [T_E_1] > 'θ'
-+ [T_E_2] > 'ᶱ'
 + [T_R] > 'r'
 + [T_T] > 't'
++ [T_T_0] > 'θ'
++ [T_T_1] > 'ᶱ'
 + [T_Y] > 'y'
 + [T_Y_0] > 'ƛ̓'
 + [T_U] > 'u'
@@ -71,7 +71,26 @@ group(main) using keys
 + [T_N] > 'n'
 + [T_N_0] > 'ŋ'
 + [T_M] > 'm'
++ [T_SEMI] > ';'
++ [T_COLON] > ':'
 
 + [T_GLOTTALIZE] > U+313
 + [T_GLOTTAL_STOP] > U+294
 + [T_ACUTE] > U+301
+
++ [K_COLON] > dk(semicolon)
+dk(semicolon) + "n" > U+014b
+dk(semicolon) + "l" > U+026b
+dk(semicolon) + "w" > U+02b7
+dk(semicolon) + "e" > U+0259
+dk(semicolon) + "y" > U+019b U+0313
+dk(semicolon) + "r" > U+03b8
+dk(semicolon) + "t" > U+1dbf
+dk(semicolon) + "/" > U+0294
+dk(semicolon) + "'" > U+0301
+dk(semicolon) + "." > U+0323
+dk(semicolon) + "," > U+0313
+dk(semicolon) + "s" > "s" U+030c
+dk(semicolon) + "x" > "x" U+030c
+dk(semicolon) + "c" > "c" U+030c
+dk(semicolon) + ";" > ";"
